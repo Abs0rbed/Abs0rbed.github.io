@@ -1,2 +1,8 @@
-http://example.com/2022/04/12/hello-world/
-http://example.com/
+https://abs0rbed.github.io/2022/04/12/hello-world/
+https://abs0rbed.github.io/tags/index.html
+https://abs0rbed.github.io/about/index.html
+https://abs0rbed.github.io/link/index.html
+https://abs0rbed.github.io/categories/index.html
+https://abs0rbed.github.io/
+https://abs0rbed.github.io/tags/test/
+https://abs0rbed.github.io/categories/test/
